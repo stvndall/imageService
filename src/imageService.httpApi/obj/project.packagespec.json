@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/steven/git/imageService/src/imageService.httpApi/imageService.httpApi.csproj",
+    "projectName": "imageService.httpApi",
+    "projectPath": "/home/steven/git/imageService/src/imageService.httpApi/imageService.httpApi.csproj",
+    "outputPath": "/home/steven/git/imageService/src/imageService.httpApi/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        }
+      }
+    }
+  }
+}

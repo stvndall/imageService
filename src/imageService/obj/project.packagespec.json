@@ -1,0 +1,32 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/steven/git/imageService/src/imageService/imageService.csproj",
+    "projectName": "imageService",
+    "projectPath": "/home/steven/git/imageService/src/imageService/imageService.csproj",
+    "outputPath": "/home/steven/git/imageService/src/imageService/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "CoreCompat.System.Drawing": {
+          "target": "Package",
+          "version": "1.0.0-beta006"
+        }
+      }
+    }
+  }
+}

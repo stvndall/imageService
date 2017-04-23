@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35a60434-6c14-497c-b630-00cbe8b4e2e6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/imageService/IImageSerialiser.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/tests.imageService/ImageSerialiserTests.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/imageService/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <marker date="1492980968607" expanded="false" signature="6:114" ph="..." />
+                <marker date="1492980968607" expanded="true" signature="138:2055" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="186:709" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="387:471" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="526:703" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="747:1209" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="890:1015" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1121:1203" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1238:1318" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1354:1414" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1485:1752" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1786:1823" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1864:2053" ph="{...}" />
+                <marker date="1492980968607" expanded="true" signature="1915:1979" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageFormat.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/635FAA7D-90D9-49CC-B9E0-5A5EE3A5FBBE/4e/f8a2996b/ImageFormat.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="158" column="9" lean-forward="false" selection-start-line="158" selection-start-column="9" selection-end-line="158" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imageService.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/imageService/imageService.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IImageSerialiser.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/imageService/IImageSerialiser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <marker date="1492980634796" expanded="true" signature="6:52" ph="..." />
+                <marker date="1492980634796" expanded="true" signature="76:776" ph="{...}" />
+                <marker date="1492980634796" expanded="true" signature="116:179" ph="{...}" />
+                <marker date="1492980634796" expanded="true" signature="232:774" ph="{...}" />
+                <marker date="1492980634796" expanded="true" signature="294:768" ph="{...}" />
+                <marker date="1492980634796" expanded="true" signature="394:758" ph="{...}" />
+                <marker date="1492980634796" expanded="true" signature="469:744" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.imageService.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests.imageService/tests.imageService.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NuGet.Config" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageLocatorTests.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageLocatorTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <marker date="1492978415496" expanded="true" signature="6:87" ph="..." />
+                <marker date="1492978415496" expanded="true" signature="117:1531" ph="{...}" />
+                <marker date="1492978415496" expanded="true" signature="154:1529" ph="{...}" />
+                <marker date="1492978415496" expanded="true" signature="345:554" ph="{...}" />
+                <marker date="1492978415496" expanded="true" signature="637:893" ph="{...}" />
+                <marker date="1492978415496" expanded="true" signature="986:1523" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageSerialiserTests.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageSerialiserTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <marker date="1492980736641" expanded="true" signature="6:32" ph="..." />
+                <marker date="1492980736641" expanded="true" signature="62:82674" ph="{...}" />
+                <marker date="1492980736641" expanded="true" signature="102:82672" ph="{...}" />
+                <marker date="1492980736641" expanded="true" signature="181:82666" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/imageService.httpApi/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <marker date="1492965581984" expanded="true" signature="45:85" ph="{...}" />
+                <marker date="1492965581984" expanded="true" signature="71:83" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/tests.imageService/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/tests/tests.imageService/ImageServiceTests.cs" />
+        <option value="$PROJECT_DIR$/tests/tests.imageService/ImageLocatorTests.cs" />
+        <option value="$PROJECT_DIR$/tests/tests.imageService/tests.imageService.csproj" />
+        <option value="$USER_HOME$/.config/NuGet/NuGet.Config" />
+        <option value="$PROJECT_DIR$/src/imageService/imageService.csproj" />
+        <option value="$PROJECT_DIR$/src/imageService/IImageSerialiser.cs" />
+        <option value="$PROJECT_DIR$/tests/tests.imageService/ImageSerialiserTests.cs" />
+        <option value="$PROJECT_DIR$/src/imageService/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1599" />
+    <option name="width" value="1922" />
+    <option name="height" value="1081" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageService (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests.imageService" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageService (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageService (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageService" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/tests.imageService/big_small_.jpg" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a60434-6c14-497c-b630-00cbe8b4e2e6" name="Default" comment="" />
+      <created>1492965152775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492965152775</updated>
+      <workItem from="1492965155716" duration="97000" />
+      <workItem from="1492965309578" duration="58000" />
+      <workItem from="1492965406457" duration="4880000" />
+      <workItem from="1492978295479" duration="903000" />
+      <workItem from="1492979213073" duration="1825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7763000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1599" y="0" width="1922" height="1081" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924336" sideWeight="0.49166667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.49583334" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/imageService/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1492980968607" expanded="false" signature="6:114" ph="..." />
+            <marker date="1492980968607" expanded="true" signature="138:2055" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="186:709" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="387:471" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="526:703" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="747:1209" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="890:1015" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1121:1203" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1238:1318" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1354:1414" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1485:1752" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1786:1823" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1864:2053" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1915:1979" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/IImageSerialiser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1492980634796" expanded="true" signature="6:52" ph="..." />
+            <marker date="1492980634796" expanded="true" signature="76:776" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="116:179" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="232:774" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="294:768" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="394:758" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="469:744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageLocatorTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1492978415496" expanded="true" signature="6:87" ph="..." />
+            <marker date="1492978415496" expanded="true" signature="117:1531" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="154:1529" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="345:554" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="637:893" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="986:1523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageSerialiserTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1492980736641" expanded="true" signature="6:32" ph="..." />
+            <marker date="1492980736641" expanded="true" signature="62:82674" ph="{...}" />
+            <marker date="1492980736641" expanded="true" signature="102:82672" ph="{...}" />
+            <marker date="1492980736641" expanded="true" signature="181:82666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService.httpApi/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1492965581984" expanded="true" signature="45:85" ph="{...}" />
+            <marker date="1492965581984" expanded="true" signature="71:83" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/imageService.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1492980968607" expanded="false" signature="6:114" ph="..." />
+            <marker date="1492980968607" expanded="true" signature="138:2055" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="186:709" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="387:471" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="526:703" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="747:1209" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="890:1015" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1121:1203" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1238:1318" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1354:1414" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1485:1752" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1786:1823" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1864:2053" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1915:1979" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/IImageSerialiser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1492980634796" expanded="true" signature="6:52" ph="..." />
+            <marker date="1492980634796" expanded="true" signature="76:776" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="116:179" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="232:774" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="294:768" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="394:758" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="469:744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/D8A2F27B-7F45-4E94-8F03-E54A5F0E4614/a7/1131deff/SKManagedStream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="65" lean-forward="false" selection-start-line="69" selection-start-column="65" selection-end-line="69" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageLocatorTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+          <folding>
+            <marker date="1492978415496" expanded="true" signature="6:87" ph="..." />
+            <marker date="1492978415496" expanded="true" signature="117:1531" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="154:1529" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="345:554" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="637:893" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="986:1523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/tests.imageService.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService.httpApi/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1492965581984" expanded="true" signature="45:85" ph="{...}" />
+            <marker date="1492965581984" expanded="true" signature="71:83" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService.httpApi/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1492965581984" expanded="true" signature="45:85" ph="{...}" />
+            <marker date="1492965581984" expanded="true" signature="71:83" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageLocatorTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1492978415496" expanded="true" signature="6:87" ph="..." />
+            <marker date="1492978415496" expanded="true" signature="117:1531" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="154:1529" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="345:554" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="637:893" ph="{...}" />
+            <marker date="1492978415496" expanded="true" signature="986:1523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/big_small_.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/D8A2F27B-7F45-4E94-8F03-E54A5F0E4614/a7/1131deff/SKManagedStream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="74" column="73" lean-forward="false" selection-start-line="74" selection-start-column="73" selection-end-line="74" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/tests.imageService.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/imageService.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/IImageSerialiser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <marker date="1492980634796" expanded="true" signature="6:52" ph="..." />
+            <marker date="1492980634796" expanded="true" signature="76:776" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="116:179" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="232:774" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="294:768" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="394:758" ph="{...}" />
+            <marker date="1492980634796" expanded="true" signature="469:744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/635FAA7D-90D9-49CC-B9E0-5A5EE3A5FBBE/4e/f8a2996b/ImageFormat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="158" column="9" lean-forward="false" selection-start-line="158" selection-start-column="9" selection-end-line="158" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/imageService/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <marker date="1492980968607" expanded="false" signature="6:114" ph="..." />
+            <marker date="1492980968607" expanded="true" signature="138:2055" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="186:709" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="387:471" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="526:703" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="747:1209" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="890:1015" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1121:1203" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1238:1318" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1354:1414" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1485:1752" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1786:1823" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1864:2053" ph="{...}" />
+            <marker date="1492980968607" expanded="true" signature="1915:1979" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests.imageService/ImageSerialiserTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1492980736641" expanded="true" signature="6:32" ph="..." />
+            <marker date="1492980736641" expanded="true" signature="62:82674" ph="{...}" />
+            <marker date="1492980736641" expanded="true" signature="102:82672" ph="{...}" />
+            <marker date="1492980736641" expanded="true" signature="181:82666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

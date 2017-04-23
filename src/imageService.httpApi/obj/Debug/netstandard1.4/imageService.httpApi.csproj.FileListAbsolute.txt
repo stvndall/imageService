@@ -1,0 +1,6 @@
+/home/steven/git/imageService/src/imageService.httpApi/bin/Debug/netstandard1.4/imageService.httpApi.deps.json
+/home/steven/git/imageService/src/imageService.httpApi/bin/Debug/netstandard1.4/imageService.httpApi.dll
+/home/steven/git/imageService/src/imageService.httpApi/bin/Debug/netstandard1.4/imageService.httpApi.pdb
+/home/steven/git/imageService/src/imageService.httpApi/obj/Debug/netstandard1.4/imageService.httpApi.AssemblyInfo.cs
+/home/steven/git/imageService/src/imageService.httpApi/obj/Debug/netstandard1.4/imageService.httpApi.dll
+/home/steven/git/imageService/src/imageService.httpApi/obj/Debug/netstandard1.4/imageService.httpApi.pdb
