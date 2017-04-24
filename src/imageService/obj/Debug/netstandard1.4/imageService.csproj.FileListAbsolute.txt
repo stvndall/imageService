@@ -1,7 +1,0 @@
-/home/steven/git/imageService/src/imageService/bin/Debug/netstandard1.4/imageService.deps.json
-/home/steven/git/imageService/src/imageService/bin/Debug/netstandard1.4/imageService.dll
-/home/steven/git/imageService/src/imageService/bin/Debug/netstandard1.4/imageService.pdb
-/home/steven/git/imageService/src/imageService/obj/Debug/netstandard1.4/imageService.csprojResolveAssemblyReference.cache
-/home/steven/git/imageService/src/imageService/obj/Debug/netstandard1.4/imageService.AssemblyInfo.cs
-/home/steven/git/imageService/src/imageService/obj/Debug/netstandard1.4/imageService.dll
-/home/steven/git/imageService/src/imageService/obj/Debug/netstandard1.4/imageService.pdb
